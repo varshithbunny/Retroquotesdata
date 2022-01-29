@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Basic_retro</string>
+    <string name="hello_world">GivenIds</string>
+    <string name="authors">Authors</string>
+    <string name="dateadded">Dateadded</string>
+    <string name="datemodified">datemodified</string>
+    <string name="different_tags">Different_tags</string>
+</resources>
